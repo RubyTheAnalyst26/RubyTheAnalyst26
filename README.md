@@ -4,7 +4,7 @@
 Turning raw data into actionable insights that drive business impact. Passionate about clean data, compelling visualizations, and solving real-world problems.
 
 📍 **Accra, Ghana** | 📧 rubyaddo20@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/ruby-enam-addo-bab033288) | [GitHub](https://github.com/rubyaddo789) | [Portfolio Website](https://rubyaddo789.github.io/RubyAddo-theanalyst.github.io/)
+🔗 [LinkedIn](www.linkedin.com/in/ruby-enam-addo-bab033288) | [Portfolio Website](https://rubyaddo789.github.io/RubyAddo-theanalyst.github.io/)
 
 ---
 
