@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ruby Enam Addo!  
-**Aspiring Data Analyst | Finance Background | Data Storytelling Enthusiast**  
+** Data Analyst | Finance Background | Data Storytelling Enthusiast**  
 
 Turning raw data into actionable insights that drive business impact. Passionate about clean data, compelling visualizations, and solving real-world problems.
 
