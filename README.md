@@ -74,5 +74,3 @@ Built with **Python (Pandas)**, **Excel**, and **Power BI**
 - 📂 GitHub: Star my repos if you find them useful!  
 
 Thanks for stopping by — excited to collaborate on data-driven projects! 🚀
-
-<img src="https://visitor-badge.laobi.works?repo=rubyaddo789" alt="Visitor Badge"/>
