@@ -4,7 +4,7 @@
 Turning raw data into actionable insights that drive business impact. Passionate about clean data, compelling visualizations, and solving real-world problems.
 
 📍 **Accra, Ghana** | 📧 rubyaddo20@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/ruby-enam-addo-bab033288) | [Portfolio Website](https://rubyaddo789.github.io/RubyAddo-theanalyst.github.io/)
+🔗 [LinkedIn](https://www.linkedin.com/in/ruby-enam-addo-bab033288) | [Portfolio Website](https://rubyaddo789.github.io/RubyAddo-theanalyst.github.io/)
 
 ---
 
@@ -27,32 +27,6 @@ I excel at data cleaning, analysis, visualization, and delivering insights that 
 
 ---
 
-### 💼 Experience
-
-**Data Analyst Bootcamp Graduate**  
-*Generation Ghana* • Aug – Nov 2025  
-- Created interactive dashboards in Power BI & Tableau  
-- Collaborated on team projects to solve real business problems  
-- Presented complex insights to stakeholders with confidence  
-
-**Accountant & Office Administrator**  
-*Smart Deals* • Jan – Jun 2025  
-- Managed AP/AR, sales tracking, and inventory valuation  
-- Built custom Excel templates for attendance & performance reporting  
-
-**National Service – Finance**  
-*Meltwater Entrepreneurial School of Technology (MEST)* • Nov 2023 – Sep 2024  
-- Handled month-end/year-end closings and financial reporting  
-- Improved data quality and presented monthly achievements to staff  
-
----
-
-### 🎓 Education & Certifications
-- **Data Analysis Program** – Generation Ghana (Nov 2025)  
-- **HND Banking and Finance** – Ho Technical University (Jul 2023)  
-- **ALX AiCE Program** – Completed Aug 2024  
-
----
 
 ### 📊 Featured Projects
 
@@ -70,7 +44,7 @@ Built with **Python (Pandas)**, **Excel**, and **Power BI**
 
 ### 📫 Let's Connect!
 - ✉️ Email: rubyaddo20@gmail.com  
-- 💼 LinkedIn: [Let's connect!](https://www.linkedin.com/in/ruby-addo)  
+- 💼 LinkedIn: [Let's connect!](https://www.linkedin.com/in/ruby-enam-addo-bab033288) 
 - 📂 GitHub: Star my repos if you find them useful!  
 
 Thanks for stopping by — excited to collaborate on data-driven projects! 🚀
